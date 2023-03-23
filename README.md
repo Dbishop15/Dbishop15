@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on Project 4 Final Stage for Sprint 4. 
 - 🌱 I’m currently learning Basic JavaScript and Working with the DOM.
-- 👯 I’m looking to collaborate in outsourcing projects.
+- :mag_right: I’m looking to collaborate in outsourcing projects.
+- :computer: I'm looking to advance my career.
 - :rocket: 2023 Goals: Become a Software Engineer.
 - 💬 Ask me about ...
 - 📫 How to reach me: email: dararat246@gmail.com
