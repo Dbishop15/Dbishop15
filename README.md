@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dararat Bishop.
 
-##I'm a Software Engineer Student @ Practicum.
+## I'm a Software Engineer Student @ Practicum.
 
 - 🔭 I’m currently working on Project 4 Final Stage for Sprint 4. 
 - 🌱 I’m currently learning Basic JavaScript and Working with the DOM
