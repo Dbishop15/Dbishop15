@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Dararat Bishop and I'm a Software Engineer student @ Practicum.
 
 <!--
 **Dbishop15/Dbishop15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
