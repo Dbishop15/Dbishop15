@@ -5,17 +5,21 @@ I am a proficient full-stack software engineer with a background in nursing. See
 
 ## I'm a Software Engineer.
 
-###🔭 About me:### I'm a newly graduated Software Engineer from TripleTen.
+### 🔭 About me: 
+I'm a newly graduated Software Engineer from TripleTen.
 
-🌱 Tech experiences: HTML, CSS, JavaScript, React, and Express.
+### 🌱 Tech experiences: 
+HTML, CSS, JavaScript, React, and Express.
 
-⚡ Fun fact: I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
+### ⚡ Fun fact: 
+I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
 
-🌟 Featured Projects: &nbsp;&nbsp;&nbsp;[<img alt= "Newexplorer_App_image" width="200px" height="150px" border-color="black" align = "center" src="images/Newsexplorer.png"/>](https://newsexplorer.servernux.com/) &nbsp;&nbsp;&nbsp;[<img alt= "TWTR_App_image" width="200px" height="100px" border-color="black" align="center" src="images/WTWR.png"/>](https://www.wtwr.twilightparadox.com/)
+### 🌟 Featured Projects: 
+&nbsp;&nbsp;&nbsp;[<img alt= "Newexplorer_App_image" width="200px" height="150px" border-color="black" align = "center" src="images/Newsexplorer.png"/>](https://newsexplorer.servernux.com/) &nbsp;&nbsp;&nbsp;[<img alt= "TWTR_App_image" width="200px" height="100px" border-color="black" align="center" src="images/WTWR.png"/>](https://www.wtwr.twilightparadox.com/)
 
-💬 Ask me about My projects?
+### 💬 Ask me about My projects?
 
-📫 How to reach me:
+### 📫 How to reach me :
 
 #### email: dararat246@gmail.com,
 
