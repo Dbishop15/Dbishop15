@@ -12,7 +12,7 @@ I am a proficient full-stack software engineer with a background in nursing. My 
   
 - 🌟 Featured Projects: [Newsexplorer](https://newsexplorer.servernux.com/)  [WTWR](https://www.wtwr.twilightparadox.com/) 
   
-- 💬 Ask me about JS libraries?
+- 💬 Ask me about My projects?
 - 📫 How to reach me:
   #### email: dararat246@gmail.com,
   #### social: https://www.linkedin.com/in/dararat-bishop-45101288/
