@@ -3,6 +3,11 @@ I am a proficient full-stack software engineer with a background in nursing. See
 
 ## I'm a Software Engineer.
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 #### 🔭 About me:
 I'm a newly graduated Software Engineer from TripleTen. I am an enthusiastic and firmly believe that every experience in life       provides an opportunity to learn and grow.
 #### 🌱 Tech experiences: 
