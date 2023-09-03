@@ -5,7 +5,7 @@ I am a proficient full-stack software engineer with a background in nursing. See
 
 ## I'm a Software Engineer.
 
-🔭 About me: I'm a newly graduated Software Engineer from TripleTen.
+###🔭 About me:### I'm a newly graduated Software Engineer from TripleTen.
 
 🌱 Tech experiences: HTML, CSS, JavaScript, React, and Express.
 
