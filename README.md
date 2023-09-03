@@ -3,10 +3,11 @@ I am a proficient full-stack software engineer with a background in nursing. See
 
 ## I'm a Software Engineer.
 
-|  ## I'm a Software Engineer.|
-| ----------- | ------------- |
-| Header      | Title         |
-| Paragraph   | Text          |
+| Syntax      | Description |
+| ----------- | ----------- |
+| 🔭About me      | I'm a newly graduated Software Engineer from TripleTen. I am an enthusiastic and firmly believe that every experience in life       provides an opportunity to learn and grow.       |
+| 🌱 Tech experiences: | HTML, CSS, JavaScript, React, and Express.        |
+|⚡ Fun fact:   | I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
 
 #### 🔭 About me:
 I'm a newly graduated Software Engineer from TripleTen. I am an enthusiastic and firmly believe that every experience in life       provides an opportunity to learn and grow.
