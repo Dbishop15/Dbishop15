@@ -10,7 +10,9 @@ I am a proficient full-stack software engineer with a background in nursing. My 
 
 - ⚡ Fun fact: I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
   
-- Featured Projects 🌟 [Newsexplorer app](https://newsexplorer.servernux.com/) [WTWR app](https://www.wtwr.twilightparadox.com/) [Newsexplorer app](https://newsexplorer.servernux.com/)
+- 🌟 Featured Projects 
+  #### 🌟 [Newsexplorer app](https://newsexplorer.servernux.com/)
+  #### 🌟 [WTWR app](https://www.wtwr.twilightparadox.com/) 
   
 - 💬 Ask me about JS libraries?
 - 📫 How to reach me:
