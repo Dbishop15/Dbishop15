@@ -6,7 +6,7 @@ I am a proficient full-stack software engineer with a background in nursing. My 
 - 🔭 I’m currently a newly graduated Software Engineer from TripleTen. 
 - 🌱 I’ve had experience in various programs such as HTML, CSS, JavaScript, React, and Express from TripleTen.
 - :mag_right: I’m looking to transition to software engineering with the goal of helping companies create responsive, scalable, and applied web experiences.
-- Featured Projects 🌟 [Newsexplorer app]([https://pages.github.com/](https://newsexplorer.servernux.com/))
+- Featured Projects 🌟 [Newsexplorer app](https://newsexplorer.servernux.com/)
 - 💬 Ask me about JS libraries?
 - 📫 How to reach me: email: dararat246@gmail.com, https://www.linkedin.com/in/dararat-bishop-45101288/
 - ⚡ Fun fact: I was a nurse who worked the healthcare industry for 7 years. I love to cook and spend time with friends and family.
