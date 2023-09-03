@@ -3,17 +3,17 @@ I am a proficient full-stack software engineer with a background in nursing. See
 
 ## I'm a Software Engineer.
 
-#### 🔭 About me: 
-I'm a newly graduated Software Engineer from TripleTen. I am an enthusiastic and firmly believe that every experience in life provides an opportunity to learn and grow
+#### 🔭 About me:
+    I'm a newly graduated Software Engineer from TripleTen. I am an enthusiastic and firmly believe that every experience in life       provides an opportunity to learn and grow.
 #### 🌱 Tech experiences: 
-HTML, CSS, JavaScript, React, and Express.
+    HTML, CSS, JavaScript, React, and Express.
 #### ⚡ Fun fact: 
-I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
+    I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
 #### 🌟 Featured Projects: 
-[<img alt= "Newexplorer_App_image" width="200px" height="150px" border-color="black" style="border: 1px solid black" align = "center" src="images/Newsexplorer.png"/>](https://newsexplorer.servernux.com/) &nbsp;&nbsp;&nbsp;[<img alt= "TWTR_App_image" width="200px" height="100px" border-color="black" style="border: 1px solid black" align="center" src="images/WTWR.png"/>](https://www.wtwr.twilightparadox.com/)
+[<kbd><img alt= "Newexplorer_App_image" width="200px" height="150px" align = "center" src="images/Newsexplorer.png"/><kbd>](https://newsexplorer.servernux.com/) &nbsp;&nbsp;&nbsp;[<kbd><img alt= "TWTR_App_image" width="200px" height="100px" align="center" src="images/WTWR.png"/><kbd>](https://www.wtwr.twilightparadox.com/)
 
 #### 💬 Ask me about My projects?
 #### 📫 How to reach me :
-email: dararat246@gmail.com,
-social: https://www.linkedin.com/in/dararat-bishop-45101288/
+##### email: dararat246@gmail.com,
+##### social: https://www.linkedin.com/in/dararat-bishop-45101288/
 
