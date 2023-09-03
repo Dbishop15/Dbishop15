@@ -4,11 +4,11 @@ I am a proficient full-stack software engineer with a background in nursing. See
 ## I'm a Software Engineer.
 
 #### 🔭 About me:
-##### I'm a newly graduated Software Engineer from TripleTen. I am an enthusiastic and firmly believe that every experience in life       provides an opportunity to learn and grow.
+I'm a newly graduated Software Engineer from TripleTen. I am an enthusiastic and firmly believe that every experience in life       provides an opportunity to learn and grow.
 #### 🌱 Tech experiences: 
-##### HTML, CSS, JavaScript, React, and Express.
+HTML, CSS, JavaScript, React, and Express.
 #### ⚡ Fun fact: 
-##### I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
+I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
 #### 🌟 Featured Projects: 
 [<kbd><img alt= "Newexplorer_App_image" width="200px" height="150px" align = "center" src="images/Newsexplorer.png"/><kbd>](https://newsexplorer.servernux.com/) &nbsp;&nbsp;&nbsp;[<kbd><img alt= "TWTR_App_image" width="200px" height="100px" align="center" src="images/WTWR.png"/><kbd>](https://www.wtwr.twilightparadox.com/)
 
