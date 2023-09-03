@@ -11,7 +11,7 @@ I am a proficient full-stack software engineer with a background in nursing. See
 
 ⚡ Fun fact: I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
 
-🌟 Featured Projects: &nbsp;&nbsp;[<img alt= "Newexplorer_App_image" width="200px" height="150px" align = "center" src="images/Newsexplorer.png"/>](https://newsexplorer.servernux.com/) &nbsp;&nbsp;[<img alt= "TWTR_App_image" width="200px" height="100px" align="center" src="images/WTWR.png"/>](https://www.wtwr.twilightparadox.com/)
+🌟 Featured Projects: &nbsp;&nbsp;&nbsp;[<img alt= "Newexplorer_App_image" width="200px" height="150px" border-color="black" align = "center" src="images/Newsexplorer.png"/>](https://newsexplorer.servernux.com/) &nbsp;&nbsp;&nbsp;[<img alt= "TWTR_App_image" width="200px" height="100px" border-color="black" align="center" src="images/WTWR.png"/>](https://www.wtwr.twilightparadox.com/)
 
 💬 Ask me about My projects?
 
