@@ -3,9 +3,9 @@ I am a proficient full-stack software engineer with a background in nursing. My 
 
 ## I'm a Software Engineer.
 
-- 🔭 I’m currently a newly graduated Software Engineer from TripleTen.
+- 🔭 About me: I'm a newly graduated Software Engineer from TripleTen.
   
-- 🌱 I’ve had experience in various programs such as HTML, CSS, JavaScript, React, and Express from TripleTen.
+- 🌱 Tech experiences: HTML, CSS, JavaScript, React, and Express from TripleTen.
 - :mag_right: I’m looking to transition to software engineering with the goal of helping companies create responsive, scalable, and applied web experiences.
 
 - ⚡ Fun fact: I was a nurse who worked in the healthcare industry for 7 years. I love to cook and spend time with friends and family.
